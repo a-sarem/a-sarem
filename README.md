@@ -1,5 +1,5 @@
 ## Hi there 👋
-Computational and data Science student @ George Mason University
+🎓 Computational & Data Sciences student @ GMU | Interested in data science and technology policy | Python • R • CSS • HTML • Data Visualization
 <!--
 **a-sarem/a-sarem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
