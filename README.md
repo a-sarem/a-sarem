@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computational and data Science student @ George Mason University
 <!--
 **a-sarem/a-sarem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
