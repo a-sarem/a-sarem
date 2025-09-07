@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🎓 Computational & Data Sciences student @ George Mason University
-- 🌱 I’m currently learning more about data visualizations and I am also currently learning MySQL database-management system
+- 🌱 I’m currently learning more about data visualizations and MySQL database-management system
 - 👯 I’m looking to collaborate on any web development and/or AI/ML projects
 <!--
 <div align="center">
@@ -25,6 +25,11 @@
 
 ###
 
+![Sarem's GitHub stats](https://github-readme-stats.vercel.app/api?username=saremagha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saremagha&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saremagha&theme=tokyonight&hide_border=true)
 
 <!--
 Here are some ideas to get you started:
