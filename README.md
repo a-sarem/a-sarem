@@ -25,11 +25,11 @@
 
 ###
 
-![Sarem's GitHub stats](https://github-readme-stats.vercel.app/api?username=saremagha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sarem's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-sarem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saremagha&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-sarem&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saremagha&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=a-sarem&theme=tokyonight&hide_border=true)
 
 <!--
 Here are some ideas to get you started:
