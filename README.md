@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🎓 Computational & Data Sciences student @ George Mason University
+- 🎓 Computational & Data Sciences @ George Mason University
 - 🌱 I’m currently learning more about data visualizations and MySQL database-management system
-- 👯 I’m looking to collaborate on any web development and/or AI/ML projects
+- 👯 I’m looking to collaborate on any web development and AI/ML projects
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" height = "30" alt = "R logo" />
   <img width="12" />
 </div>
 
